@@ -1,0 +1,9 @@
+D:\tutzy\C#\homework2\Regular Expressions\01.Series of Letters\bin\Debug\01.Series of Letters.exe.config
+D:\tutzy\C#\homework2\Regular Expressions\01.Series of Letters\bin\Debug\01.Series of Letters.exe
+D:\tutzy\C#\homework2\Regular Expressions\01.Series of Letters\bin\Debug\01.Series of Letters.pdb
+D:\tutzy\C#\homework2\Regular Expressions\01.Series of Letters\obj\Debug\01.Series of Letters.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\homework2\Regular Expressions\01.Series of Letters\obj\Debug\01.Series of Letters.exe
+D:\tutzy\C#\homework2\Regular Expressions\01.Series of Letters\obj\Debug\01.Series of Letters.pdb
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\01.Series of Letters\bin\Debug\01.Series of Letters.exe.config
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\01.Series of Letters\obj\Debug\01.Series of Letters.exe
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\01.Series of Letters\obj\Debug\01.Series of Letters.pdb

@@ -1,0 +1,9 @@
+D:\tutzy\C#\homework2\Regular Expressions\03. Extract Emails\bin\Debug\_03.Extract_Emails.exe.config
+D:\tutzy\C#\homework2\Regular Expressions\03. Extract Emails\bin\Debug\_03.Extract_Emails.exe
+D:\tutzy\C#\homework2\Regular Expressions\03. Extract Emails\bin\Debug\_03.Extract_Emails.pdb
+D:\tutzy\C#\homework2\Regular Expressions\03. Extract Emails\obj\Debug\03. Extract Emails.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\homework2\Regular Expressions\03. Extract Emails\obj\Debug\_03.Extract_Emails.exe
+D:\tutzy\C#\homework2\Regular Expressions\03. Extract Emails\obj\Debug\_03.Extract_Emails.pdb
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\03. Extract Emails\bin\Debug\_03.Extract_Emails.exe.config
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\03. Extract Emails\obj\Debug\_03.Extract_Emails.exe
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\03. Extract Emails\obj\Debug\_03.Extract_Emails.pdb

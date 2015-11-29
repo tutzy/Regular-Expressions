@@ -1,0 +1,12 @@
+D:\tutzy\C#\homework2\Regular Expressions\02. ReplaceTag\bin\Debug\_02.ReplaceTag.exe.config
+D:\tutzy\C#\homework2\Regular Expressions\02. ReplaceTag\bin\Debug\_02.ReplaceTag.exe
+D:\tutzy\C#\homework2\Regular Expressions\02. ReplaceTag\bin\Debug\_02.ReplaceTag.pdb
+D:\tutzy\C#\homework2\Regular Expressions\02. ReplaceTag\obj\Debug\_02.ReplaceTag.exe
+D:\tutzy\C#\homework2\Regular Expressions\02. ReplaceTag\obj\Debug\_02.ReplaceTag.pdb
+D:\tutzy\C#\homework2\Regular Expressions\02. ReplaceTag\obj\Debug\02. ReplaceTag.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\02. ReplaceTag\bin\Debug\_02.ReplaceTag.exe.config
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\02. ReplaceTag\obj\Debug\_02.ReplaceTag.exe
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\02. ReplaceTag\obj\Debug\_02.ReplaceTag.pdb
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\02. ReplaceTag\bin\Debug\_02.ReplaceTag.exe
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\02. ReplaceTag\bin\Debug\_02.ReplaceTag.pdb
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\02. ReplaceTag\obj\Debug\02. ReplaceTag.csprojResolveAssemblyReference.cache

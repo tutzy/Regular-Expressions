@@ -1,0 +1,9 @@
+D:\tutzy\C#\homework2\Regular Expressions\04. Sentence Extractor\bin\Debug\_04.Sentence_Extractor.exe.config
+D:\tutzy\C#\homework2\Regular Expressions\04. Sentence Extractor\bin\Debug\_04.Sentence_Extractor.exe
+D:\tutzy\C#\homework2\Regular Expressions\04. Sentence Extractor\bin\Debug\_04.Sentence_Extractor.pdb
+D:\tutzy\C#\homework2\Regular Expressions\04. Sentence Extractor\obj\Debug\_04.Sentence_Extractor.exe
+D:\tutzy\C#\homework2\Regular Expressions\04. Sentence Extractor\obj\Debug\_04.Sentence_Extractor.pdb
+D:\tutzy\C#\homework2\Regular Expressions\04. Sentence Extractor\obj\Debug\04. Sentence Extractor.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\04. Sentence Extractor\bin\Debug\_04.Sentence_Extractor.exe.config
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\04. Sentence Extractor\obj\Debug\_04.Sentence_Extractor.exe
+D:\tutzy\C#\Homework_Advanced\Regular Expressions\04. Sentence Extractor\obj\Debug\_04.Sentence_Extractor.pdb
